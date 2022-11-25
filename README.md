@@ -1,2 +1,1 @@
-# DataScience_Intro
-Data Science Process
+Using dataset from https://archive.ics.uci.edu/ml/datasets.php to introduce process of data science
